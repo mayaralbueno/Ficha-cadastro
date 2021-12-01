@@ -1,7 +1,7 @@
 # Ficha-cadastro
 Ficha cadastro desenvolvida  para treinar os conceitos de java.
 
-<h1  align="center">fICHA DE CADASTRO📑</H1>
+<h1  align="center">FICHA DE CADASTRO📑</H1>
 
   <div align="center">
 <img src="https://media.giphy.com/media/eAhFeqhdwhoduvAbon/giphy.gif" style="width: 60%;">
