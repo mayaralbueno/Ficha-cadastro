@@ -15,9 +15,9 @@ Ficha cadastro desenvolvida  para treinar os conceitos de java.
 <table align="center" style=" width: 60%" >
   
      
-<td align="center">
+<div align="center">
   <img  src="https://img.shields.io/badge/Java-5B4638?style=for-the-badge&logo=java&logoColor=white">
  
-</table>
+</div>
 
 <br>
